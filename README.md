@@ -25,10 +25,12 @@ To provide more context, below is a more detailed data description, explaining e
 # Feature Importances
   
 ![image](https://github.com/jamesbengi/British_Airways_Customer_Booking/blob/master/visualization/BA.png)
-The most important variable in the model was purchase_lead, <br>
-that is the time between purchase and departure<br>
-Length of stay also plays a key role in determining if a customer will <br>
-Complete the booking<br>
+
+Most important features are **Purchase_lead, length of stay and flight duration.**
+-The most important variable in the model was purchase_lead, 
+ that is the time between purchase and departure
+ Length of stay also plays a key role in determining if a customer will 
+ Complete the booking
 
 
 
