@@ -22,6 +22,7 @@ To provide more context, below is a more detailed data description, explaining e
 <li>wants_in_flight_meals = if the customer wanted in-flight meals in the booking<br>
 <li>flight_duration = total duration of flight (in hours)<br>
 <li>booking_complete = flag indicating if the customer completed the booking<br>
+  
 # Feature Importances
   
 ![image](https://github.com/jamesbengi/British_Airways_Customer_Booking/blob/master/visualization/BA.png)
