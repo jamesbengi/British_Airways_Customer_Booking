@@ -1,8 +1,8 @@
-# Machine Learning Model to predict which customer books with British Airways<br>
+# Machine Learning Model to predict which customer books with British Airways
 # Task
 Build a model that predicts which customer books with the airline using the data provided<br>
 To find out what are the most important features for building the model<br>
-# Data<br>
+# Data
 The file 'customer_booking.csv' contains the training data with the target variable 'booking_complete' which indicates 0 for a <br>
 customer that did not complete booking and 1 for those that copleted booking.<br>
 
@@ -22,8 +22,9 @@ To provide more context, below is a more detailed data description, explaining e
 <li>wants_in_flight_meals = if the customer wanted in-flight meals in the booking<br>
 <li>flight_duration = total duration of flight (in hours)<br>
 <li>booking_complete = flag indicating if the customer completed the booking<br>
-# Feature Importances<br>
-![image](https://github.com/jamesbengi/British_Airways_Customer_Booking/blob/master/visualization/BA.png)<br>
+# Feature Importances
+  
+![image](https://github.com/jamesbengi/British_Airways_Customer_Booking/blob/master/visualization/BA.png)
 The most important variable in the model was purchase_lead, <br>
 that is the time between purchase and departure<br>
 Length of stay also plays a key role in determining if a customer will <br>
