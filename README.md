@@ -23,7 +23,7 @@ To provide more context, below is a more detailed data description, explaining e
 <li>flight_duration = total duration of flight (in hours)<br>
 <li>booking_complete = flag indicating if the customer completed the booking<br>
 # Feature Importances<br>
-![Alt image](visualizatio/BA.png)<br>
+![image](https://github.com/jamesbengi/British_Airways_Customer_Booking/blob/master/visualization/BA.png)<br>
 The most important variable in the model was purchase_lead, <br>
 that is the time between purchase and departure<br>
 Length of stay also plays a key role in determining if a customer will <br>
